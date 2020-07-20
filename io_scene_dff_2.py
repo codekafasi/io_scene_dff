@@ -2,7 +2,7 @@ bl_info = {
     "name": "RenderWare importer/exporter for GTA III/VC/SA (.dff)",
     "author": "Ago Allikmaa (maxorator), Pedro Luis Valadés Viera (PerikiyoXD)",
     "version": (0, 10, 0),
-    "blender": (2, 6, 3),
+    "blender": (2, 80, 0),
     "location": "File > Import-Export > Renderware (.dff) ",
     "description": "RenderWare importer/exporter for GTA III/VC/SA",
     "category": "Import-Export" 
